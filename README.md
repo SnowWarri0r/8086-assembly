@@ -4,7 +4,7 @@
  * @GithubUser: SnowWarri0r
  * @Date: 2022-03-04 15:13:10
  * @Company: ncuhome
- * @LastEditTime: 2022-03-04 15:16:27
+ * @LastEditTime: 2022-03-04 15:18:35
  * @FilePath: \masm\README.md
  * @Description: 
 -->
@@ -17,4 +17,4 @@
 - E开头代表的是实验  
 - C开头的代表检测点  
 - P开头的代表问题  
-
+- D开头的代表课程设计
